@@ -1,0 +1,21 @@
+.img-fluid {
+    max-width: 100%;
+    height: auto
+}
+span {
+    display: none;
+}
+.a{
+    display: none;
+}
+h4{
+    display: none;
+}
+.pantera-titulo, .binance-titulo, .arrigton{
+font-size: 2rem;
+letter-spacing: 5px;
+text-transform: uppercase;
+margin: 1.5rem;
+margin-bottom: 3rem;
+}
+
